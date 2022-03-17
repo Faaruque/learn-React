@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App{
+  text-align: center;
+  height: 100%;
+}
+.h2Btn{
+  margin: 25px;
+}
+.Btn{
+  border: 1px solid #fff;
+  padding: 15px;
+  background: #ff5200;
+  color: #fff;
+  font-size: 1.9rem;
+  border-radius: 5px;
+}
